@@ -1,0 +1,8 @@
+
+for(i=0;i<5;i++){
+   num = ''
+   for(j=0;j<i;j++){
+     num += ' *'
+   }
+    console.log(num)
+}

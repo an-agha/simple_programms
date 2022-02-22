@@ -1,0 +1,10 @@
+// Given a number, print if it is positive, negative or zero
+
+let a = 2;
+
+if(a == 0)
+  console.log('it is zero');
+else if(a > 0)
+  console.log('it is positive');
+else
+  console.log('it is negative');

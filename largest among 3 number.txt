@@ -1,0 +1,11 @@
+//  Program to find the largest among 3 numbers
+
+let a = 50;
+let b = 100;
+let c = 3;
+if(a > b && a > c)
+    console.log("a is the largest number");
+else if(b > c)
+  console.log("b is the largest number");
+else
+  console.log(" c is the largest");

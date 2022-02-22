@@ -1,0 +1,5 @@
+// Given a number, print if it is odd or even using ternary operator
+
+a = prompt("enter a number");
+
+(a/2 == 0)?console.log('a is even'):console.log('a is odd');
