@@ -1,0 +1,23 @@
+// let a = "anu"
+// console.log(a.length);
+
+let b = "i am"
+let a ="anagha nisakar"
+let c = "20"
+ console.log(a.slice(7));
+ console.log(a.slice(0,6))
+
+ console.log(a.substr(0,6));
+ console.log(a.substr(6));
+
+ console.log(a.replace("nisakar","deepa"));
+ console.log(a.toUpperCase());
+
+ console.log(b.concat(' ',a));
+ console.log(a.trim());
+console.log(c.padStart(6,0));
+console.log(c.padEnd(5,0));
+
+ console.log(a.charAt(1));
+ console.log(a.charCodeAt(2));
+console.log(a.split(' '));
